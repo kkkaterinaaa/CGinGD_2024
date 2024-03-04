@@ -1,6 +1,6 @@
 # Advanced Computer Graphics in Game Development
 
-A template repository for Advanced Computer Graphics in Game Development course.
+A repository for Advanced Computer Graphics in Game Development course.
 
 ## Pre-requirements
 
