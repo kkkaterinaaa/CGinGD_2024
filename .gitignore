@@ -40,4 +40,5 @@ cmake-build-release/
 build/
 
 # SPIR-v
-*.spv
+*.spv.DS_Store
+.DS_Store
